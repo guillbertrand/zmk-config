@@ -313,8 +313,8 @@
         //│  A       │  S       │  E       │  N       │  F       │     │  L       │  R       │  T       │  I       │  U       │
         HRML(Q,         S,         E,         N,         F)          HRMR(L,         R,         T,         I,         U)
         //├──────────┼──────────┼──────────┼──────────┼──────────┤     ├──────────┼──────────┼──────────┼──────────┼──────────┤
-        //│  Z       │  X       │  , ?     │  V       │  B       │     │  : /     │   H      │    G     │ ; .      │ K        │
-            &kp W      &kp X      &kp SEMI     &kp V      &kp B            &kp COMMA    &kp H      &kp G      &kp M   &kp K
+        //│  Z       │  X       │  , ?     │  V       │  B       │     │  : /     │   H      │    G     │ ; .     │ K        │
+            &kp W      &kp X      &kp M     &kp V      &kp B            &kp DOT    &kp H      &kp G      &kp COMMA   &kp K
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤     ├──────────┼──────────┼──────────┴──────────┴──────────╯
         //                                 │  TAB L1  │  ENTER   │     │  SPACE   │  BSPC L2 │
                                             &lt 1 TAB   &kp ENTER       &kp SPACE  &lt 2 BSPC
